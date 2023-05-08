@@ -1,3 +1,8 @@
+# THIS REPOSITORY IS OUTDATED. Please find current logos and favicons on [the knossos repository](https://github.com/modrinth/knossos). Badges can be found on [Devin's Badges](https://intergrav.github.io/devins-badges-docs/badges/). If you need help finding something specific, please join [our Discord](https://discord.gg/modrinth-734077874708938864).
+
+<details>
+<summary>Full README</summary>
+
 # <img height="32px" src="./Branding/Mark/mark-light.svg" /> Art
 
 This repository contains icons and branding designed and used by Modrinth.
@@ -32,3 +37,5 @@ Put simply, [icons](./Icons/) are licensed under *CC-BY-SA-4.0*, and [branding](
 ## Contributing
 
 Follow the [contributing guide](./CONTRIBUTING.md) to get started. Before modifying existing art, you may want to talk over proposed changes in Modrinth's Discord.
+
+</details>
