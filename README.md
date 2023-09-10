@@ -1,4 +1,4 @@
-# THIS REPOSITORY IS OUTDATED. Please find current logos and favicons on [the knossos repository](https://github.com/modrinth/knossos). Badges can be found on [Devin's Badges](https://intergrav.github.io/devins-badges-docs/badges/). If you need help finding something specific, please join [our Discord](https://discord.gg/modrinth-734077874708938864).
+# THIS REPOSITORY IS OUTDATED. Please find current logos and favicons on [the knossos repository](https://github.com/modrinth/knossos). Badges can be found on [Devin's Badges](https://intergrav.github.io/devins-badges-docs/badges/). If you need help finding something specific, please join [our Discord](https://discord.modrinth.com).
 
 <details>
 <summary>Full README</summary>
